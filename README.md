@@ -1,5 +1,13 @@
 # codex-agent-runner
 
+> Codex Agent Runner — AI code generation pipeline with distributed Ollama inference across 4 Pi nodes (BlackRoad integration)
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
+# codex-agent-runner
+
 Codex Agent Runner — AI code generation pipeline with distributed Ollama inference across 4 Pi nodes (BlackRoad integration)
 
 **BlackRoad-OS-Inc** — Corporate root — all IP and governance
